@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/Scharr/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/cobalt/AndroidStudioProjects/Scharr/app/build/intermediates/pre-dexed/debug/classes-4555322ff69d8a231cfe1eecc92f8c1bfc231f40.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/Scharr/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/cobalt/AndroidStudioProjects/Scharr/app/build/intermediates/pre-dexed/debug/classes-63c21fda49434cf4a14720f652b84bdc90d3b95a.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/Sharpen/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/cobalt/AndroidStudioProjects/Sharpen/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-4d0fc76f7e92216f68bbb6a6bd51213241248a02.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/Sharpen/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/cobalt/AndroidStudioProjects/Sharpen/app/build/intermediates/pre-dexed/debug/classes-38cb0f3c9ab0aad071e32ff0227f2b919fc76ebc.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/cobalt/AndroidStudioProjects/Sharpen/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-8cc0e63cf9402c9ce3f4cccb6b99350936f413b8.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/Scharr/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/cobalt/AndroidStudioProjects/Scharr/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-88862dba5fd8f9c1ce48562ba44ca7cb14d8dad7.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/Sharpen/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/cobalt/AndroidStudioProjects/Sharpen/app/build/intermediates/pre-dexed/debug/classes-2d5cedef001efda4bc7b587a620c3c6383574184.jar" />
+    </item>
+
+</items>
